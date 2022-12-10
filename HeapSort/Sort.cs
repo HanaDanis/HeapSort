@@ -1,5 +1,4 @@
 ﻿
-// C# program for implementation of Heap Sort
 using System;
 
 public class Sort
